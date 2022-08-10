@@ -253,7 +253,7 @@ public class StudentController {
 	
 	@GetMapping("getString")
 	public String getString() {
-		return "Hello World";
+		return "Hello World. This is  test message.";
 	}
 
 }
